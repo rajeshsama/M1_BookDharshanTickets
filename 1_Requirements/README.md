@@ -3,7 +3,7 @@
 * Our Project is about the design of Dharshan Tickets Booking Portal where the management can able to handle the portal and can provide the booked tickets and ticket numbers to the Devotees.
 * This Project is designed for easy access of devotees information who visited the temple, this project can also able to give the serial ticket numbers where it can give the exact count of devotees visited the temple on a single day.
 * This project is useful for the temple management for their records and maintainance and will also used to track how many devotees will be visiting on specific days by analysing the previous recorded data, so that the temple management can do better arrangements and can make the events or festive days better ways for dharshanam on special days for the devotees. 
-* This project is baically developled by using C programming techniques which will able to run on Windows, Linux and different platfomrs so that the project will be used anywhere and anytime.
+* This project is baically developled by using C programming techniques which will able to run on Windows, Linux and different platforms so that the project will be used anywhere and anytime.
 
 # Analysis
 
