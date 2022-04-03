@@ -1,5 +1,5 @@
 # Documentation Section
-/* Documantation section:
+/* Documentation section:
 * Project Name: Book Dharshan Tickets
 * Submission Date: 03/04/2022. 
 */
