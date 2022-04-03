@@ -1,7 +1,8 @@
 # Documentation Section
 /* Documantation section:
-   Project Name: Book Dharshan Tickets
-   Submission Date: 03/04/2022. */
+* Project Name: Book Dharshan Tickets
+* Submission Date: 03/04/2022. 
+*/
    
 # Link Section
   * #include<stdio.h>
@@ -15,7 +16,7 @@
   * Included the User created Source and Header files.
 
 # Global Declerations 
-   * Struct Node Functioin 
+   * Struct Node Function
    * Void Book Functions are included
 
 # Main Function
